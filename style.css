@@ -1,0 +1,54 @@
+#navname{
+    color:black
+}
+
+#introphoto{
+    width:35em
+}
+
+button {
+  background-color: #16aa68; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#groy{
+    color: grey;
+}
+
+#grn{
+    background-color:#16aa68 ;
+   
+}
+
+#rouimg{
+    border-radius:5em 1em 1em 1em
+}
+
+/* #sponsor{
+    width: 100%;
+    
+} */
+
+
+/* .parent {
+    
+  
+    padding: 1em 5rem;
+    text-align: center;
+  }
+  .child {
+    display: inline-block;
+    
+    padding: 1em 6em;
+    vertical-align: middle;
+  }
+
+ */
